@@ -167,13 +167,20 @@ passions: Building scalable web platforms, AI agents, high-performance APIs
 
 <br/>
 
-![Shafeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeek32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeek32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<!-- GitHub Streak Stats -->
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=shafeek32&theme=tokyonight&hide_border=true)
 
 <br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafeek32&theme=tokyonight&hide_border=true)
+<!-- GitHub Activity Graph -->
+![Shafeek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shafeek32&theme=tokyo-night&hide_border=true)
+
+<br/><br/>
+
+<!-- Language Distribution & Commit Stats -->
+![Profile Summary Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafeek32&theme=tokyonight)
+&nbsp;&nbsp;
+![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafeek32&theme=tokyonight)
 
 <br/><br/>
 
