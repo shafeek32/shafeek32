@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Header Dynamic Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Shafeek%20Latheef&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Builder&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Shafeek%20Latheef&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%2B%20AI%20Builder&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- Dynamic Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Full-Stack+%26+Backend+Developer;AI+%26+Systems+Builder;LangGraph+%26+LLM+Orchestrator;Computer+Science+Undergraduate" alt="Typing SVG" />
+<a href="https://github.com/shafeek32">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Full-Stack+and+Backend+Developer;AI+and+Systems+Builder;LangGraph+and+LLM+Orchestrator;Computer+Science+Undergraduate" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -116,7 +116,7 @@ passions: Building scalable web platforms, AI agents, high-performance APIs
 ```
 
 - 📥 **Multimodal Ingestion:** Extracts key metadata from raw complaints, PDFs, and image attachments via Tesseract OCR and LLM entity parsing.
-- 🔄 **Graph Workflow Orchestration:** Uses **LangGraph** & **LangChain** pipelines to handle complaint categorization, severity calculation, and routing logic.
+- 🔄 **Graph Workflow Orchestration:** Uses **LangGraph** and **LangChain** pipelines to handle complaint categorization, severity calculation, and routing logic.
 - 🛡️ **Schema Validation:** Strict payload validation with **Pydantic** models backed by relational persistence in **PostgreSQL**.
 - 🛠️ **Tech Stack:** `React` • `TypeScript` • `Vite` • `FastAPI` • `PostgreSQL` • `LangGraph` • `LangChain` • `Groq LLM`
 
@@ -167,13 +167,13 @@ passions: Building scalable web platforms, AI agents, high-performance APIs
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shafeek32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shafeek's GitHub Stats" height="175" />
+![Shafeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeek32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeek32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeek32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeek32&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafeek32&theme=tokyonight&hide_border=true)
 
 <br/><br/>
 
