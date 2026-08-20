@@ -17,7 +17,7 @@
 <br/>
 
 <!-- Social Badges Header -->
-<a href="https://portfolio-kappa-plum-49.vercel.app/">
+<a href="https://www.shafeektech.site/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
@@ -211,7 +211,7 @@ passions: Building scalable web platforms, AI agents, high-performance APIs
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-plum-49.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shafeektech.site/)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafeek-latheef)
 &nbsp;&nbsp;
