@@ -1,20 +1,39 @@
 <div align="center">
 
-# Hi, I'm Shafeek Latheef 👋
-
-### **Software Engineer • Full-Stack Developer • AI & Systems Builder**
-
-**B.Tech in Computer Science** • APJ Abdul Kalam Technological University (Class of 2026)  
-📍 Kerala, India
+<!-- Header Dynamic Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Shafeek%20Latheef&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Builder&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Header Banner" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-plum-49.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafeek-latheef)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafeekl2002@gmail.com)
+<!-- Dynamic Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer;Full-Stack+%26+Backend+Developer;AI+%26+Systems+Builder;LangGraph+%26+LLM+Orchestrator;Computer+Science+Undergraduate" alt="Typing SVG" />
+</a>
 
 <br/>
+
+📍 **Kerala, India** &nbsp;•&nbsp; 🎓 **B.Tech in Computer Science** (APJ Abdul Kalam Technological University, 2026)
+
+<br/>
+
+<!-- Social Badges Header -->
+<a href="https://portfolio-kappa-plum-49.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/shafeek-latheef">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/shafeek32">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:shafeekl2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
 
 </div>
 
@@ -22,12 +41,18 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science undergraduate** specializing in building practical **full-stack web applications**, **backend APIs**, and **AI-powered software solutions**.
+```yaml
+name: Shafeek Latheef
+role: Software Engineer / Full-Stack & AI Developer
+education: B.Tech Computer Science & Engineering (2022 - 2026)
+status: Open to Software Engineer, Full-Stack, Backend & AI Roles
+passions: Building scalable web platforms, AI agents, high-performance APIs
+```
 
-- 🚀 **Full-Stack & Backend:** Building responsive frontends with React and TypeScript, paired with high-performance APIs using FastAPI and Node.js/Express.
-- 🤖 **AI Engineering:** Developing intelligent workflows with LangGraph, LangChain, LLM APIs, and OCR for automated document ingestion and entity extraction.
-- 🗄️ **Databases & Schema Design:** Designing relational and document data models across PostgreSQL, MongoDB, and MySQL with clean REST API integration.
-- 💼 **Open to Opportunities:** Actively seeking **Software Engineer**, **Full-Stack Developer**, **Backend Developer**, and **AI Engineering** roles.
+- 🚀 **Full-Stack & Backend Architecture:** Crafting responsive user interfaces with **React** & **TypeScript**, powered by high-performance asynchronous APIs using **FastAPI** and **Node.js / Express**.
+- 🤖 **AI Engineering & Workflows:** Building automated multi-agent systems with **LangGraph**, **LangChain**, LLM APIs (**Groq**, **OpenAI**), and OCR engines for intelligent data extraction & document processing.
+- 🗄️ **Database & Schema Design:** Architecting efficient relational and document models across **PostgreSQL**, **MongoDB**, and **MySQL** with clean RESTful integrations.
+- 💼 **Career Focus:** Seeking **Software Engineer**, **Full-Stack Developer**, **Backend Developer**, and **AI Engineer** roles (Full-time & Internships).
 
 ---
 
@@ -35,24 +60,42 @@ I am a **Computer Science undergraduate** specializing in building practical **f
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+### 💻 Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+### 🎨 Frontend Development
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<p><em>Also familiar with: C, Java, PHP, MySQL, SQLite, Supabase, TensorFlow, MediaPipe, Postman, Linux CLI.</em></p>
+### ⚙️ Backend & API Services
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+
+### 🤖 AI Engineering & Agents
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Groq LLM](https://img.shields.io/badge/Groq_LLM-F05A28?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)](https://mediapipe.dev/)
+
+### 🗄️ Databases & DevOps Tools
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 </div>
 
@@ -60,72 +103,90 @@ I am a **Computer Science undergraduate** specializing in building practical **f
 
 ## 🚀 Featured Projects
 
-### 1. [AI Customer Complaint Management System (AIVOA)](https://github.com/shafeek32/ai-customer-complaint-management)
-> **AI-powered complaint management platform automating grievance intake, document extraction, and ticket routing.**
+<br/>
 
-- **Tech Stack:** React, TypeScript, Vite, FastAPI (Python), PostgreSQL, LangGraph, LangChain, Groq LLM, Pydantic, OCR
-- **Multimodal Ingestion:** Extracts structured complaint data from PDFs, images, and text attachments using OCR and LLM-based entity extraction.
-- **Workflow Orchestration:** Implements LangGraph and LangChain pipelines for complaint categorization, verification, and data validation.
-- **Structured Data Persistence:** Enforces strict schema validation using Pydantic models and persists grievance records in PostgreSQL.
-- 🔗 **Repository:** [shafeek32/ai-customer-complaint-management](https://github.com/shafeek32/ai-customer-complaint-management)
+### 1️⃣ [AIVOA — AI Customer Complaint Management System](https://github.com/shafeek32/ai-customer-complaint-management)
 
----
+> **Autonomous AI complaint handling platform that automates grievance intake, document extraction, ticket routing, and structured resolution workflows.**
 
-### 2. [Decision Companion System](https://github.com/shafeek32/decision-companion-system)
-> **Decision-support analytics web application that ranks travel destinations using a multi-criteria scoring model.**
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│ PDF/Img Intake  │ ──►│ OCR & LLM Extr. │ ──►│ LangGraph Flow  │ ──►│ PostgreSQL DB   │
+└─────────────────┘    └─────────────────┘    └─────────────────┘    └─────────────────┘
+```
 
-- **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN), Vite, Tailwind CSS, Recharts, REST APIs
-- **Weighted Scoring Engine:** Evaluates destinations based on customizable user preference criteria (budget, distance, safety index, climate) using a Weighted Sum Model (WSM).
-- **Interactive Visualizations:** Renders comparative analytics and radar charts with Recharts to help users analyze trade-offs.
-- **RESTful Backend:** Express API managing user preference configurations and destination datasets in MongoDB.
-- 🔗 **Repository:** [shafeek32/decision-companion-system](https://github.com/shafeek32/decision-companion-system)
+- 📥 **Multimodal Ingestion:** Extracts key metadata from raw complaints, PDFs, and image attachments via Tesseract OCR and LLM entity parsing.
+- 🔄 **Graph Workflow Orchestration:** Uses **LangGraph** & **LangChain** pipelines to handle complaint categorization, severity calculation, and routing logic.
+- 🛡️ **Schema Validation:** Strict payload validation with **Pydantic** models backed by relational persistence in **PostgreSQL**.
+- 🛠️ **Tech Stack:** `React` • `TypeScript` • `Vite` • `FastAPI` • `PostgreSQL` • `LangGraph` • `LangChain` • `Groq LLM`
 
----
-
-### 3. [WebGenie — No-Code Full-Stack Website Generator](https://github.com/shafeek32/Webgenie)
-> **Visual application builder that scaffolds full-stack web project starters with UI, API routes, and database schemas.**
-
-- **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, REST APIs
-- **Full-Stack Scaffolding:** Generates modular application layers including React UI components, Express route handlers, and MongoDB schemas.
-- **Reusable Templates:** Speeds up initial project setup by automating boilerplate creation from visual configurations.
-- 🔗 **Repository:** [shafeek32/Webgenie](https://github.com/shafeek32/Webgenie)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32/ai-customer-complaint-management)
 
 ---
 
-### 4. [CodeArena — Coding Platform](https://github.com/shafeek32/Coding-Platform)
-> **Full-stack coding practice platform with an in-browser code editor, problem sets, and test evaluation.**
+### 2️⃣ [Decision Companion System](https://github.com/shafeek32/decision-companion-system)
 
-- **Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Monaco Editor
-- **Integrated Code Editor:** Embedded Monaco Editor with syntax highlighting for Python, C++, Java, and JavaScript.
-- **Submission & Testing:** Handles code submissions against test cases and tracks user progress, problem tracks, and leaderboards.
-- 🔗 **Repository:** [shafeek32/Coding-Platform](https://github.com/shafeek32/Coding-Platform)
+> **Multi-criteria decision analytics web application that evaluates and ranks travel destinations based on customizable scoring models.**
 
----
+- 📊 **Weighted Sum Model (WSM):** Dynamically computes preference scores across budget parameters, safety indices, climate scores, and travel distance.
+- 📈 **Interactive Visualizations:** Renders comparative radar charts and analytics using **Recharts** for clear decision trade-off insights.
+- ⚡ **Full MERN Architecture:** Scalable **Express** REST API managing preference configurations and user datasets in **MongoDB**.
+- 🛠️ **Tech Stack:** `MongoDB` • `Express.js` • `React` • `Node.js` • `Vite` • `Tailwind CSS` • `Recharts`
 
-### 5. [SignBridge AI — AI Sign Language Translator](https://github.com/shafeek32)
-> **Computer vision prototype translating hand gestures into text for accessible communication.**
-
-- **Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow
-- **Landmark Extraction:** Captures real-time hand coordinates and motion trajectories using MediaPipe.
-- **Gesture Classification:** Classifies gesture sequences using deep learning models to output corresponding text.
-- 🔗 **Repository:** [shafeek32 (GitHub Profile)](https://github.com/shafeek32)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32/decision-companion-system)
 
 ---
 
-## 🎯 Current Focus & Ongoing Learning
+### 3️⃣ [WebGenie — No-Code Full-Stack Generator](https://github.com/shafeek32/Webgenie)
 
-- 🏗️ **Advanced Backend Development:** Asynchronous programming, API performance, and microservices patterns with FastAPI and Spring Boot.
-- 🤖 **AI Application Engineering:** Practical tool calling, RAG pipelines, and agent workflows with LangGraph.
-- 📐 **System Design & Databases:** Relational schema optimization, indexing in PostgreSQL, and query design.
-- 🐳 **DevOps Fundamentals:** Docker containerization, Linux environments, and deployment workflows.
+> **Visual full-stack website builder that scaffolds production-ready application starters with UI components, API routes, and database schemas.**
+
+- 🏗️ **Full-Stack Starter Generator:** Automatically creates modular React components, Express API route handlers, and MongoDB schemas.
+- ⚡ **Rapid Boilerplate Scaffolding:** Eliminates repetitive project setup time by generating clean, modular template code directly from visual configuration.
+- 🛠️ **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `REST APIs`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32/Webgenie)
 
 ---
 
-## 💼 Open to Opportunities
+### 4️⃣ [CodeArena — Interactive Coding Platform](https://github.com/shafeek32/Coding-Platform)
 
-**Actively open to Software Engineer, Full-Stack, Backend, and AI Engineering opportunities (Full-time & Internships).**
+> **Full-stack competitive coding platform featuring an embedded code editor, automated test suite evaluation, and progress tracking.**
 
-*Feel free to reach out for roles, collaborations, or technical discussions!*
+- 💻 **In-Browser Editor:** Features **Monaco Editor** integration with syntax highlighting for Python, C++, Java, and JavaScript.
+- 🧪 **Submission Engine:** Evaluates code submissions against hidden test suites, tracking problem solved status, submissions history, and user leaderboards.
+- 🛠️ **Tech Stack:** `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Monaco Editor`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32/Coding-Platform)
+
+---
+
+## ⚡ GitHub Activity & Metrics
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shafeek32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shafeek's GitHub Stats" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeek32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeek32&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+
+<br/><br/>
+
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+- 🏗️ **Advanced Backend Systems:** Deepening knowledge in async concurrency, microservices architecture, and API optimization.
+- 🤖 **Agentic AI Frameworks:** Building resilient tool-calling agents, human-in-the-loop flows, and RAG pipelines using **LangGraph**.
+- 📐 **Database Performance:** Advanced query optimization, indexing strategies, and schema normalization in PostgreSQL.
+- 🐳 **DevOps & Cloud:** Enhancing containerized workflows with Docker and Linux system administration.
 
 ---
 
@@ -133,16 +194,23 @@ I am a **Computer Science undergraduate** specializing in building practical **f
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-plum-49.vercel.app/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-plum-49.vercel.app/)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafeek-latheef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafeek-latheef)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Direct%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafeekl2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shafeekl2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafeekl2002@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32)
+[![GitHub](https://img.shields.io/badge/GitHub-shafeek32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shafeek32)
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shafeek32&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shafeek32)
 
 <br/>
 
-**Email:** [shafeekl2002@gmail.com](mailto:shafeekl2002@gmail.com) • **Location:** Kerala, India • **Portfolio:** [portfolio-kappa-plum-49.vercel.app](https://portfolio-kappa-plum-49.vercel.app/)
+<!-- Footer Dynamic Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
