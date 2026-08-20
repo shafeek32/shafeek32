@@ -167,20 +167,28 @@ passions: Building scalable web platforms, AI agents, high-performance APIs
 
 <br/>
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=shafeek32&theme=tokyonight&hide_border=true)
+<!-- GitHub Streak Stats with Cache Buster -->
+<a href="https://github.com/shafeek32">
+  <img src="https://streak-stats.demolab.com/?user=shafeek32&theme=dark&hide_border=true&v=3" alt="GitHub Streak Stats" />
+</a>
 
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
-![Shafeek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shafeek32&theme=tokyo-night&hide_border=true)
+<a href="https://github.com/shafeek32">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafeek32&theme=tokyo-night&hide_border=true&v=3" alt="Shafeek's GitHub Activity Graph" />
+</a>
 
 <br/><br/>
 
 <!-- Language Distribution & Commit Stats -->
-![Profile Summary Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafeek32&theme=tokyonight)
+<a href="https://github.com/shafeek32">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafeek32&theme=tokyonight&v=3" alt="Profile Summary Details" />
+</a>
 &nbsp;&nbsp;
-![Language Distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafeek32&theme=tokyonight)
+<a href="https://github.com/shafeek32">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafeek32&theme=tokyonight&v=3" alt="Language Distribution" />
+</a>
 
 <br/><br/>
 
